@@ -31,3 +31,7 @@ If you would like to learn more, I suggest the following reading:
 * [Wikipedia list](https://en.wikipedia.org/wiki/Comparison_of_photogrammetry_software) of software comparisons
 
 if you would like to add to this list, please fork my repo and then issue a pull request for it to be included. I will then add you to contributing authors. 
+
+## Raw data to practise with
+
+I have a large folder on [Google Drive](https://goo.gl/CS5aoN) with hundreds of GB of data for various models. You could use this for practise. 
