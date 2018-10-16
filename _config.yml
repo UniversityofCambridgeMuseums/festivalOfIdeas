@@ -18,7 +18,7 @@ email: dejp3@cam.ac.uk
 description: >- # This site will provide training material for the Museum of
   Classical Archaeology's workshop on photogrammetry.
 baseurl: "/festivalofIdeas" # the subpath of your site, e.g. /blog
-url: "https://UniversityofCambridgeMuseums.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://UniversityofCambridgeMuseums.github.io/" # the base hostname & protocol for your # site, e.g. http://example.com
 twitter_username: dejpett
 github_username:  portableant
 logo: images/festivalLogo.jpg
