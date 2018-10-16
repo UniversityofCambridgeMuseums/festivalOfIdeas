@@ -26,17 +26,7 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-        
-        {% if site.logo %}
-        <img src="{{site.ucam_logo | relative_url}}" alt="Logo" />
-        {% endif %}
-        
-        {% if site.class_logo %}
-        <img src="{{site.class_logo | relative_url}}" alt="Logo" width="100"/>
-        {% endif %}
-        {% if site.fitz_logo %}
-        <img src="{{site.fitz_logo | relative_url}}" alt="Logo" width="100"/>
-        {% endif %}
+       
         <p>{{ site.workshop_date | date_to_long_string }}</p>
         
         {% if site.github.is_project_page %}
