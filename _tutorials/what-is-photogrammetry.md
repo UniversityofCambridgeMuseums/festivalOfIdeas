@@ -3,6 +3,7 @@ layout: post
 title: What is photogrammetry?
 permalink: /tutorials/what-is-photogrammetry/
 weight: "a"
+author: Daniel Pett
 ---
 You're here because you want to learn about making 3D models and today we are using the very simple technique of photogrammetry. 
 
@@ -17,12 +18,6 @@ In this short tutorial, we are going to use a very popular technique called 'Str
 ## So what can you create
 
 I first came across SfM whilst working on the MicroPasts crowdsourcing project, where we harnessed the power of the crowd to remove backgrounds from photographs to enable more rapid creation of 3D models. We are going to skip the background removal today, as hopefully your photographs will allow you to create a model with little difficulty. The 3D models below all came out of crowdsourcing and give you an idea of what you could do. 
-
-<iframe width="640" height="480" src="https://sketchfab.com/playlists/embed?collection=bb3cff6dfa4f40a588794dd02a29e12f" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-<a href="https://sketchfab.com/micropasts/collections/annotated-models?utm_source=website&utm_medium=embed&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Annotated Models</a>
-by <a href="https://sketchfab.com/micropasts?utm_source=website&utm_medium=embed&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">MicroPasts</a>
-on <a href="https://sketchfab.com?utm_source=website&utm_medium=embed&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
-
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://sketchfab.com/playlists/embed?collection=bb3cff6dfa4f40a588794dd02a29e12f" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
