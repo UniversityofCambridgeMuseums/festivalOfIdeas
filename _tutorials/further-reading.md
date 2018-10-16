@@ -3,6 +3,7 @@ layout: post
 title: Further reading
 permalink: /tutorials/further-reading/
 weight: "m"
+author: Daniel Pett
 ---
 
 Thank you for coming to my workshop and interacting with University of Cambridge Museums. I hope you will now go out and create great 3D. This is a very basic tutorial session and there are far more things to learn. 
@@ -11,9 +12,9 @@ If you would like to learn more, I suggest the following reading:
 
 ## Charters and metadata standards
 
-* ReACH
-* CS3DP 
-* The London Charter
+* [ReACH](https://www.vam.ac.uk/research/projects/reach-reproduction-of-art-and-cultural-heritage)
+* [CS3DP](https://osf.io/ewt2h/) 
+* [The London Charter](http://www.londoncharter.org/)
 
 ## Tutorials
 
@@ -22,8 +23,9 @@ If you would like to learn more, I suggest the following reading:
 * [MicroPasts guides](https://micropasts.org/blog/learning)
 
 ## Software
-* Agisoft Photoscan
-* Capturing Reality
-* Visual SFM
+* [Agisoft Photoscan](http://www.agisoft.com/)
+* [Capturing Reality](https://www.capturingreality.com/)
+* [Visual SFM](http://ccwu.me/vsfm/)
+* [Wikipedia list](https://en.wikipedia.org/wiki/Comparison_of_photogrammetry_software) of software comparisons
 
 if you would like to add to this list, please fork my repo and then issue a pull request for it to be included. I will then add you to contributing authors. 
