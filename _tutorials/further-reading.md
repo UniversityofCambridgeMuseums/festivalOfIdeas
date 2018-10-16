@@ -3,6 +3,7 @@ layout: post
 title: Further reading
 permalink: /tutorials/further-reading/
 weight: "m"
+published: 2018-10-16
 author: Daniel Pett
 ---
 
@@ -10,11 +11,12 @@ Thank you for coming to my workshop and interacting with University of Cambridge
 
 If you would like to learn more, I suggest the following reading:
 
-## Charters and metadata standards
+## Charters, training and metadata standards
 
 * [ReACH](https://www.vam.ac.uk/research/projects/reach-reproduction-of-art-and-cultural-heritage)
 * [CS3DP](https://osf.io/ewt2h/) 
 * [The London Charter](http://www.londoncharter.org/)
+* [Applied Digital Documentation in the Historic Environment Short Guide 13](https://www.historicenvironment.scot/archives-and-research/publications/publication/?publicationid=9b35b799-4221-46fa-80d6-a8a8009d802d)
 
 ## Tutorials
 
