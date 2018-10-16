@@ -4,6 +4,17 @@ layout: default
 
 # How to make 3D scans of Classical Casts
 
+        {% if site.logo %}
+        <img src="{{site.ucam_logo | relative_url}}" alt="Logo" />
+        {% endif %}
+        
+        {% if site.class_logo %}
+        <img src="{{site.class_logo | relative_url}}" alt="Logo" width="100"/>
+        {% endif %}
+        {% if site.fitz_logo %}
+        <img src="{{site.fitz_logo | relative_url}}" alt="Logo" width="100"/>
+        {% endif %}
+
 Hello and welcome to this 2 hour workshop on how to make a 3D scan of one of the Classical Archaeology Museum's casts of classical sculptures. By the end of this workshop, you should be equipped to make a scan like this one of the Terme Boxer's head. We will be covering the basics of a technique called photogrammetry.
 
 **If at anytime during this tutorial, you do not understand or need clarification, please stop me and ask.**
