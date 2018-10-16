@@ -11,14 +11,9 @@ published: 2018-10-17
 Hello and welcome to this 2 hour workshop on how to make a 3D scan of one of the Classical Archaeology Museum's casts of classical sculptures. By the end of this workshop, you should be equipped to make a scan like this one of the Terme Boxer's head. We will be covering the basics of a technique called photogrammetry.
 
 **If at anytime during this tutorial, you do not understand or need clarification, please stop me and ask.**
+
 <div class="resp-container">
 <div class="sketchfab-embed-wrapper"><iframe class="resp-iframe" src="https://sketchfab.com/models/9ab4421881c74081aa1f02d792dcb857/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-<a href="https://sketchfab.com/models/9ab4421881c74081aa1f02d792dcb857?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Terme Boxer head</a>
-by <a href="https://sketchfab.com/danielpett?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">danielpett</a>
-on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
 </div>
 </div>
 
