@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{{content}}
+
+{% if page.collection %}
+{% assign links = site[page.collection] | sort:"weight"  %}
+{% endif %}
+
+{% for link in links %}
+{% if link.title == page.title %}
+{% unless forloop.first %}
+{% assign prev = tmpprev %}
+{% endunless %}
+{% unless forloop.last %}
+{% assign next = links[forloop.index] %}
+{% endunless %}
+{% endif %}
+{% assign tmpprev = link %}
+{% endfor %}
+
+
+    {% if prev %}
+        Previous step: <a href="{{site.baseurl}}{{ prev.url}}">{{ prev.title }}</a>
+    {% endif %}
+    {% if next %}
+        Next step: <a href="{{site.baseurl}}{{ next.url}}">{{ next.title }}</a>
+    {% endif %}
+

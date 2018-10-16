@@ -1,0 +1,29 @@
+---
+layout: post
+title: Further reading
+permalink: /tutorials/further-reading/
+weight: "m"
+---
+
+Thank you for coming to my workshop and interacting with University of Cambridge Museums. I hope you will now go out and create great 3D. This is a very basic tutorial session and there are far more things to learn. 
+
+If you would like to learn more, I suggest the following reading:
+
+## Charters and metadata standards
+
+* ReACH
+* CS3DP 
+* The London Charter
+
+## Tutorials
+
+* Abby Crawford, [How to set up a successful photogrammetry project](https://blog.sketchfab.com/how-to-set-up-a-successful-photogrammetry-project/)
+* Az Balabanian [Getting started with Photogrammetry — with an iPhone camera Capturing the world in a future-proof data form](https://medium.com/realities-io/getting-started-with-photogrammetry-d0a6ee40cb72)
+* [MicroPasts guides](https://micropasts.org/blog/learning)
+
+## Software
+* Agisoft Photoscan
+* Capturing Reality
+* Visual SFM
+
+if you would like to add to this list, please fork my repo and then issue a pull request for it to be included. I will then add you to contributing authors. 

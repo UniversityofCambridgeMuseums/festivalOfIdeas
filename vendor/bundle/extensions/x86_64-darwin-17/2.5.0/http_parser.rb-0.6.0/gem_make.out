@@ -1,0 +1,16 @@
+current directory: /Users/danielpett/Documents/GitHub/festivalOfIdeas/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/danielpett/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20181016-6964-18di92i.rb extconf.rb
+creating Makefile
+
+current directory: /Users/danielpett/Documents/GitHub/festivalOfIdeas/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/danielpett/Documents/GitHub/festivalOfIdeas/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/danielpett/Documents/GitHub/festivalOfIdeas/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20181016-6964-12dq8o6
