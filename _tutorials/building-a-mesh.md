@@ -10,7 +10,7 @@ updated: 2018-10-22
 
 You are now ready to make the solid mesh of the object you have chosen to scan. So you might want to flick backwards and forwards through the different stages you have. If you look at the top toolbar you will see these icons:
 
-![The photoscan window]({{site.baseurl}}/images/icons.jpg "Photoscan interface window")
+![The photoscan window](/images/icons.jpg "Photoscan interface window")
 
 What do they mean?
 
@@ -24,15 +24,15 @@ What do they mean?
 
 To make the mesh follow these steps after creating your cloud (which will look like below hopefully)
 
-![The photoscan window]({{site.baseurl}}/images/boxerDense.jpg "Photoscan interface window")
+![The photoscan window](/images/boxerDense.jpg "Photoscan interface window")
 
 1. Click on *workflow*
 2. Choose *build mesh*
 3. Choose *low* in the options
 4. Press OK
 
-![The photoscan window]({{site.baseurl}}/images/chooseMesh.jpg "Photoscan interface window")
+![The photoscan window](/images/chooseMesh.jpg "Photoscan interface window")
 
 Once you've waited for the timer to complete, you might see something like this!
 
-![The photoscan window]({{site.baseurl}}/images/mesh.jpg "Photoscan interface window")
+![The photoscan window](/images/mesh.jpg "Photoscan interface window")
