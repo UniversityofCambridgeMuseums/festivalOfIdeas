@@ -4,6 +4,8 @@ title: What is photogrammetry?
 permalink: /tutorials/what-is-photogrammetry/
 weight: "a"
 author: Daniel Pett
+published: 2018-10-16
+updated: 2018-10-22
 ---
 You're here because you want to learn about making 3D models and today we are using the very simple technique of photogrammetry. 
 
@@ -18,6 +20,7 @@ In this short tutorial, we are going to use a very popular technique called 'Str
 ## So what can you create
 
 I first came across SfM whilst working on the MicroPasts crowdsourcing project, where we harnessed the power of the crowd to remove backgrounds from photographs to enable more rapid creation of 3D models. We are going to skip the background removal today, as hopefully your photographs will allow you to create a model with little difficulty. The 3D models below all came out of crowdsourcing and give you an idea of what you could do. 
+
 <div class="resp-container">
 <iframe class="resp-iframe" src="https://sketchfab.com/playlists/embed?collection=bb3cff6dfa4f40a588794dd02a29e12f" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
