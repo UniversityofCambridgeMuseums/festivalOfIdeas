@@ -7,7 +7,7 @@ author: Daniel Pett
 published: 2018-10-16
 updated: 2018-10-22
 ---
-![The fabulous Hercules](/images/antinous.jpg "Logo Title Text 1")
+![The fabulous Hercules]({{ site.baseurl }}/images/antinous.jpg "Logo Title Text 1")
 Today we'll be trying to make models of objects in the Classical Archaeology Museum's amazing collection of casts of sculpture from around the Classical world. You are spoilt for choice. 
 
 So what can you scan and what can't you scan easily? Well, today you won't be too limited, but photogrammetry does not work well with:
