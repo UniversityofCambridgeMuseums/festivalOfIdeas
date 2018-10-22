@@ -30,7 +30,7 @@ instructor: Daniel Pett
 google_analytics: UA-298202-19
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-sitemap
