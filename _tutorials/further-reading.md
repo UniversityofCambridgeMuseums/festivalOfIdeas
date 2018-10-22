@@ -5,6 +5,7 @@ permalink: /tutorials/further-reading/
 weight: "m"
 published: 2018-10-16
 author: Daniel Pett
+updated: 2018-10-22
 ---
 
 Thank you for coming to my workshop and interacting with University of Cambridge Museums. I hope you will now go out and create great 3D. This is a very basic tutorial session and there are far more things to learn. 
