@@ -3,8 +3,11 @@ layout: post
 title: What equipment do I need?
 permalink: /tutorials/what-equipment-do-i-need/
 weight: "b"
+author: Daniel Pett
+published: 2018-10-16
+updated: 2018-10-22
 ---
-![The fabulous Hercules]({{site.baseurl}}/images/festival.jpg "Logo Title Text 1")
+![The fabulous Hercules](/images/festival.jpg "Festival of Ideas MoCA banner")
 Today, we will just be covering the very basics of photogrammetry and not delving into best practise for most accurate representations. You will be learning how to take images without special equipment, which will not compromise the conservation and physical integrity of an object.
 
 So today, you will need just:
