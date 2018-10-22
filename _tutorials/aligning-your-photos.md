@@ -18,7 +18,7 @@ This is very easy. Follow these steps:
 4. Navigate to the folder you wish to use and click open
 5. In the dialogue window, choose 'Create camera from each file' and press ok (see image below.)
 
-![The photoscan window](/images/choose.jpg "Photoscan interface window")
+![The photoscan window]({{ site.baseurl }}/images/choose.jpg "Photoscan interface window")
 
 Your images will now appear in the left hand pane under workspace as 'CHUNK 1'. 
 
@@ -32,7 +32,7 @@ Alignment can now happen!
 4. Set accuracy as low
 5. Press OK
 
-![The photoscan window](/images/align.jpg "Photoscan interface window")
+![The photoscan window]({{ site.baseurl }}/images/align.jpg "Photoscan interface window")
 
 This will then bring up a countdown timer. Have patience, this will take time to process. Go off and see some casts. When time is meant to have finished come back and we are at the next stage.
 
