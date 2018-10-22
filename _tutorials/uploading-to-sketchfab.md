@@ -3,6 +3,9 @@ layout: post
 title: Uploading to Sketchfab
 permalink: /tutorials/uploading-to-sketchfab/
 weight: "l"
+author: Daniel Pett
+published: 2018-10-16
+updated: 2018-10-22
 ---
 
 Now that you have made a 3D model, you no doubt want to show the world. This can be done easily by using the Sketchfab platform. To do this register on their site and then we're ready to go.
@@ -12,7 +15,7 @@ Now that you have made a 3D model, you no doubt want to show the world. This can
 You now need to create your model in a format their platform can cope with. So follow these step in Photoscan:
 
 1. Press *File* 
-2. Choose * Export* 
+2. Choose *Export* 
 3. Choose Wavefront OBJ (*.obj) as the format
 4. Name your model 
 5. Press save and a new dialogue window pops up.
