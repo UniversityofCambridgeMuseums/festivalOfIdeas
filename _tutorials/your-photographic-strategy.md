@@ -4,6 +4,8 @@ title: Your photographic strategy
 permalink: /tutorials/your-photographic-strategy/
 weight: "d"
 author: Daniel Pett
+published: 2018-10-16
+updated: 2018-10-22
 ---
 
 We now need to think about how we will take photographs of the object that you have chosen. Factors we need to consider are:
