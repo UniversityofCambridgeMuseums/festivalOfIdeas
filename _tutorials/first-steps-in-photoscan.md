@@ -16,7 +16,7 @@ I have a copy on a memory stick if you cannot get online.
 
 Once installed you are ready to go. Open the Photoscan package and you will see this interface appear. Sort of scary? It is pretty simple to use, just follow the instructions over the next few pages. 
 
-![The photoscan window](/images/photoscan.jpg "Photoscan interface window")
+![The photoscan window]{{ site.baseurl }}(/images/photoscan.jpg "Photoscan interface window")
 
 We are going to do several steps now:
 
