@@ -7,7 +7,7 @@ author: Daniel Pett
 published: 2018-10-16
 updated: 2018-10-22
 ---
-![The fabulous Hercules](/images/discob.jpg "The Discobolus in the BM labs")
+![The fabulous Hercules]({{ site.baseurl }}/images/discob.jpg "The Discobolus in the BM labs")
 We are now ready to begin our photography session. You have learnt the basics of how to take the photographs.
 In this session, I would like you to remain on automatic settings and retain the same focal length for all photos.
 
