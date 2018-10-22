@@ -28,10 +28,10 @@ Your model will now be exported and is ready to go.
 
 1. Login with your new account for their platform
 2. Look in the top right corner for the upload button
-![The photoscan window]({{site.baseurl}}/images/upload.png "Photoscan interface window")
+![The photoscan window](/images/upload.png "Photoscan interface window")
 3. Press upload
 4. This dialogue window appears 
-![The photoscan window]({{site.baseurl}}/images/chooserSketchfab.png "Photoscan interface window")
+![The photoscan window](/images/chooserSketchfab.png "Photoscan interface window")
 5. Choose all the files that have been created for the model (OBJ, MTL and JPG)
 6. Press upload and wait
 7. Once uploaded the window will change and you will go to the editing page. 
