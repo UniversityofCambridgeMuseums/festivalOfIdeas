@@ -3,6 +3,9 @@ layout: post
 title: Cleaning a dense cloud
 permalink: /tutorials/cleaning-your-cloud/
 weight: "i"
+author: Daniel Pett
+published: 2018-10-16
+updated: 2018-10-22
 ---
 
 So now you might have to do some cleaning to remove background dense cloud artefacts. In the image below, you can see some extra whiteness around the edge of the mummy board. This needs to go!
@@ -19,4 +22,3 @@ This is quite easy. Follow these steps.
 That will remove the extraneous pieces you don't need. Repeat as desire until you are happy. You can zoom in and out on the model using your trackpad on your mouse.
 
 Now you are ready to make the solid mesh.
-
