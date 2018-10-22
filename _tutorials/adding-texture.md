@@ -14,10 +14,10 @@ Follow these steps to create your texture:
 
 1. You got it, click *Workflow*
 2. Choose Generic, Mosaic (default) and 4096 x 1 in the options window as shown below.<br />
-![The photoscan window](/images/texture.jpg "Photoscan interface window")
+![The photoscan window](images/texture.jpg "Photoscan interface window")
 
 3. Wait for the texture generation to finish. And you might see something like this.<br />
 
-![The photoscan window](/images/finished.jpg "Photoscan interface window")
+![The photoscan window](images/finished.jpg "Photoscan interface window")
 
 Et voila, you have created a 3D model. You are amazing. 
