@@ -3,6 +3,9 @@ layout: post
 title: Building a mesh
 permalink: /tutorials/building-a-mesh/
 weight: "j"
+author: Daniel Pett
+published: 2018-10-16
+updated: 2018-10-22
 ---
 
 You are now ready to make the solid mesh of the object you have chosen to scan. So you might want to flick backwards and forwards through the different stages you have. If you look at the top toolbar you will see these icons:
