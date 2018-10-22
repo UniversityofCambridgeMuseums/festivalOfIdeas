@@ -3,6 +3,7 @@ layout: default
 title: How to make 3D scans of Classical Casts
 author: Daniel Pett
 published: 2018-10-17
+updated: 2018-10-22
 ---
 
 # How to make 3D scans of Classical Casts
