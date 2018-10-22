@@ -7,7 +7,8 @@ author: Daniel Pett
 published: 2018-10-16
 updated: 2018-10-22
 ---
-![The fabulous Hercules](/images/festival.jpg "Festival of Ideas MoCA banner")
+![The fabulous Hercules]({{ site.baseurl }}/images/festival.jpg "Festival of Ideas MoCA banner")
+
 Today, we will just be covering the very basics of photogrammetry and not delving into best practise for most accurate representations. You will be learning how to take images without special equipment, which will not compromise the conservation and physical integrity of an object.
 
 So today, you will need just:
@@ -30,4 +31,4 @@ If we were going for fully professional level scanning with this process we woul
 * A lightbox
 * A range of filters (polarising etc)
 
-But, we're not *today*! We're just learning the basic process.
+But, we're not **today**! We're just learning the basic process.
