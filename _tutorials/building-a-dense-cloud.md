@@ -3,6 +3,9 @@ layout: post
 title: Building a dense cloud
 permalink: /tutorials/building-a-dense-cloud/
 weight: "h"
+author: Daniel Pett
+published: 2018-10-16
+updated: 2018-10-22
 ---
 
 Once your alignment process has finished, you are now ready to create a dense cloud with far more data. This will enable the programme to create your 3D model. An example of aligned photos is shown below (this is for an Egyptian shabti of Ramose in the Fitzwilliam Museum).
