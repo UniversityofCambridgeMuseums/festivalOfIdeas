@@ -23,11 +23,11 @@ layout: default
 {% assign tmpprev = link %}
 {% endfor %}
 
-
+<p>
     {% if prev %}
         Previous step: <a href="{{site.baseurl}}{{ prev.url}}">{{ prev.title }}</a>
     {% endif %}
     {% if next %}
         Next step: <a href="{{site.baseurl}}{{ next.url}}">{{ next.title }}</a>
     {% endif %}
-
+</p>
