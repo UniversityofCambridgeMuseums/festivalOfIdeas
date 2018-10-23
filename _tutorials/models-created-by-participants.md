@@ -19,7 +19,7 @@ frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webki
 </div>
 
 <div class="resp-iframe">
-<div class="sketchfab-embed-wrapper"><iframe class="resp-iframe" width="640" height="480" src="https://sketchfab.com/models/7f41e3d03420404491850d9e9695f296/embed" frameborder="0" allow="autoplay; fullscreen; vr" 
+<div class="sketchfab-embed-wrapper"><iframe class="resp-iframe"  src="https://sketchfab.com/models/7f41e3d03420404491850d9e9695f296/embed" frameborder="0" allow="autoplay; fullscreen; vr" 
 mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 </div>
