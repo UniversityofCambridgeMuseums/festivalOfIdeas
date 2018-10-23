@@ -2,7 +2,7 @@
 layout: post
 title: Models created by participants
 author: Daniel Pett
-url: tutorials/models-created
+url: tutorials/models-created-by-participants
 weight: "o"
 published: 2018-10-23
 updated: 2018-10-23
