@@ -15,6 +15,7 @@ gem "minima", "~> 2.0"
 gem "jekyll-theme-minimal"
 gem "jekyll-sitemap"
 gem "jemoji"
+gem "commonmarker", ">= 0.23.4"
 gem "jekyll-seo-tag"
 gem "jekyll-mentions"
 
@@ -32,4 +33,3 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
